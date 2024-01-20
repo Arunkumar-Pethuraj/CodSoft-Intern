@@ -20,3 +20,6 @@ https://github.com/Arunkumar-Pethuraj/CodSoft-Intern/assets/153414462/1f83e39b-b
 
 ## Task 3 - ATM Interface :
 
+![Screenshot (538)](https://github.com/Arunkumar-Pethuraj/CodSoft-Intern/assets/153414462/a44d2c4f-dc88-4980-be23-2a7adabbc211)
+
+https://github.com/Arunkumar-Pethuraj/CodSoft-Intern/assets/153414462/1f9165ad-e886-42d6-9482-eda4b61daf5c
