@@ -11,3 +11,12 @@ https://github.com/Arunkumar-Pethuraj/CodSoft-Intern/assets/153414462/f79c6acd-2
 <br>
 
 ## Task 2 - Student Grade Calculation : 
+
+![Screenshot (537)](https://github.com/Arunkumar-Pethuraj/CodSoft-Intern/assets/153414462/7606880c-4da4-43cb-ab40-0939d8553a21)
+
+https://github.com/Arunkumar-Pethuraj/CodSoft-Intern/assets/153414462/1f83e39b-ba97-4fd6-84bf-7737fa3b833d
+
+<br>
+
+## Task 3 - ATM Interface :
+
