@@ -1,5 +1,7 @@
 # CodSoft Java Intern - 2024
 
+## (Tasks Completed)
+
 ## Task 1 - Number Guessing Game :
 
 ![Screenshot (535)](https://github.com/Arunkumar-Pethuraj/CodSoft-Intern/assets/153414462/3a5b00bd-6fc2-48da-b5f2-c7dbcd14f2bb)
